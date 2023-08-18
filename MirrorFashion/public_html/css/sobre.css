@@ -1,6 +1,9 @@
 p {
 font-family: monospace;
 text-align: left;
+letter-spacing: 3px;
+word-spacing: 5px;
+text-indent: 30px;
 }
 
 h1{

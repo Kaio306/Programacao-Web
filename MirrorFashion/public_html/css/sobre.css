@@ -1,9 +1,7 @@
 p {
-font-family: monospace;
-text-align: left;
-letter-spacing: 3px;
-word-spacing: 5px;
-text-indent: 30px;
+text-align: left;    
+padding: 0 45px;
+text-indent: 15px;
 }
 
 h1{
@@ -19,6 +17,7 @@ h2{
 body {
 color: #333333;
 font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+background-image: url(../img/body-background.png);
 margin-left: auto;
 margin-right: auto;
 width: 940px;
